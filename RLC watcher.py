@@ -8,17 +8,19 @@ RATE_LIMIT_RETRY_SECONDS = 2
 
 PRODUCT_JSON = (
     # Link for RLC ferrari F40
+    # Change it to the product you want to watch.
     "https://au.creations.mattel.com/products/"
     "mattel-creations-hot-wheels-rlc-exclusive-ferrari-f40.js"
 
-    # Test link for RLC 1985 Audi Sport Quattro S1
+    # Test link for RLC 1985 Audi Sport Quattro S1 
     # "https://au.creations.mattel.com/products/"
     # "hot-wheels-rlc-exclusive-1985-audi-sport-quattro-s1-87492678954.js"
 )
+
 # The variant ID for the RLC Ferrari F40 is 51154648989919. 
 VARIANT_ID = 51154648989919
 
-# TESTING: The variant ID for the RLC 1985 Audi Sport Quattro S1 is 87492678954.
+# TESTING: The variant ID for the RLC 1985 Audi Sport Quattro S1 is 50512676487391.
 # VARIANT_ID = 50512676487391
 
 ADD_TO_CART_URL = (
